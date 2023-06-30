@@ -4,6 +4,8 @@
   jogar números aleatórios na loteria, porém têm dificuldades de decidir os 6 números.
 </p>
 
+![Screenshot from 2023-06-29 23-07-10](https://github.com/hugoeamoura/Loteria-Gerador/assets/93922338/d55cefb0-da2e-4b74-8ba3-77848e55c7eb)
+
 # Desenvolvimento
 O Loteria-Gerador foi desenvolvido utilizando as seguintes tecnologias:
 <div>
