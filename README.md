@@ -13,4 +13,4 @@ O Loteria-Gerador foi desenvolvido utilizando as seguintes tecnologias:
 </div>
 
 # Autor
-A Calculadora Simples foi desenvolvido por Hugo Moura, entusiasta por tecnologia, durante o período de estudo de progamação front-end e back-end.
+Projeto - Loteria-Gerador foi desenvolvido por Hugo Moura, durante o período de estudo de progamação front-end e back-end.
