@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #008080;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.dinheiroImagem{
+    width: 400px;
+}
+
+h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 62px;
+    line-height: 38px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    background: rgba(255, 255, 0, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 14px;
+    height: 74px;
+    width: 342px;
+    padding-left: 20px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    opacity: 0.7;
+    margin-bottom: 30px;
+}
+
+.input-min {
+    margin-right: 62px;
+}
+
+button {
+    background: #AEC346;
+    box-shadow: 0px 18px 40px rgba(174, 195, 70, 0.35);
+    border-radius: 10px;
+    width: 342px;
+    height: 72px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    opacity: 0.8;
+}
+
+#resultado {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    margin-top: 30px;
+    
+}
+
+
+
+
+.footer {
+    color: black;
+    height: 60px; /* Altura do footer */
+    background-color: #008080;
+      padding: 20px;
+      text-align: center;
+      /* Posicionamento fixo no final da página */
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+}
